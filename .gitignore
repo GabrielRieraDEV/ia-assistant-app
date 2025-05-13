@@ -1,0 +1,18 @@
+# Python
+backend/venv/
+backend/.env
+backend/__pycache__/
+backend/db.sqlite3
+
+# Node
+frontend/node_modules/
+frontend/.env
+
+# Otros
+__pycache__/
+.DS_Store
+*.sqlite3
+*.db
+
+# Capturas (mantener solo si quieres mostrar en README)
+# screenshots/

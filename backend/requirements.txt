@@ -1,0 +1,9 @@
+fastapi>=0.110.0
+uvicorn>=0.29.0
+pydantic>=2.0.0
+requests
+python-dotenv>=1.0.1
+sqlmodel>=0.0.16
+huggingface_hub>=0.23.0
+ipython  # Para depuración interactiva en consola
+# SQLite viene incluido en Python. Para inspección visual, instala DB Browser for SQLite: https://sqlitebrowser.org/
